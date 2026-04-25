@@ -142,5 +142,5 @@ A continuación, se presentan ejemplos de prompts utilizados para apoyar el desa
 
 El proyecto demuestra la aplicación práctica de la Programación Orientada a Objetos en Python, logrando una solución organizada, funcional y escalable para la gestión de personal.
 
-=======
+
 
