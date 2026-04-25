@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧑‍💼 SISTEMA DE REGISTRO DE PERSONAL
 
 ---
@@ -141,3 +142,7 @@ A continuación, se presentan ejemplos de prompts utilizados para apoyar el desa
 
 El proyecto demuestra la aplicación práctica de la Programación Orientada a Objetos en Python, logrando una solución organizada, funcional y escalable para la gestión de personal.
 
+=======
+# Sistema-registro-personal-
+Sistema de registro de personal desarrollado en Python aplicando Programación Orientada a Objetos (POO). Permite gestionar empleados mediante operaciones de registro, consulta, actualización y eliminación a través de un menú interactivo en consola.
+>>>>>>> 9f2c8958b681e45a5fd2d28d65f7819bb44968c3
